@@ -44,7 +44,7 @@ Make error messages better, add retry functionality, handle empty states properl
 ## Quick checklist
 
 - [x] Create types file
-- [ ] Create useOrders hook
+- [x] Create useOrders hook
 - [ ] Create FilterButtons component
 - [ ] Create OrdersTable component
 - [ ] Refactor OrdersView to use everything
