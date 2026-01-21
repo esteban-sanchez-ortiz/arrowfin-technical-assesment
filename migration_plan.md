@@ -43,7 +43,7 @@ Make error messages better, add retry functionality, handle empty states properl
 
 ## Quick checklist
 
-- [ ] Create types file
+- [x] Create types file
 - [ ] Create useOrders hook
 - [ ] Create FilterButtons component
 - [ ] Create OrdersTable component
